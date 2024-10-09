@@ -1,5 +1,7 @@
 # ChampionDex
 
-This is a simple page fetching the league of legends playeable characters and displaying them. This web features some simple animations and styles with `css` and basic data fetching using `JavaScript` to get the data from an external `API`, it's also deployed with `gh-pages`.
+**ChampionDex** is a simple web page that fetches and displays the playable characters from League of Legends. The page includes basic animations and styles built with CSS, along with data fetching using JavaScript to retrieve champion information from an external API.
 
-Here is the [link](https://angel-l-g.github.io/ChampionDex/) of you want to check it out, though it might be down.
+The project is also deployed using GitHub Pages.
+
+You can check it out [here](https://angel-l-g.github.io/ChampionDex/), though it might be temporarily unavailable.
